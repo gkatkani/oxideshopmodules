@@ -12,13 +12,13 @@ $sMetadataVersion = '2.0';
 
 
 $aModule = array(
-    'id'          => 'g_megamenu',
-    'title'       => 'g_megamenu extend filter',
+    'id'          => 'oxideshopmodule',
+    'title'       => 'oxideshopmodule extend filter',
     'description' =>  array(
         'de'=>'Erweiterter Attributfilter',
         'en'=>'Extended Attribute Filter',
     ),
-    'thumbnail'    => 'itratos.png',
+    'thumbnail'   => 'itratos.png',
     'version'     => '1.0.0',
     'url'         => 'http://gauravkatkani.blogspot.com',
     'email'       => 'gkatkani@gmail.com',

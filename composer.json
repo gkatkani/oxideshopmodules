@@ -1,5 +1,5 @@
 {
-    "name": "oxideshopmodules",
+    "name": "oxideshopmodules/g_megamenu",
     "description": "Extended Filter",
     "type": "oxideshop-module",
     "keywords": ["extended filter", "search"],

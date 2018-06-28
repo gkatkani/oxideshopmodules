@@ -18,7 +18,7 @@ $aModule = array(
         'de'=>'Erweiterter Attributfilter',
         'en'=>'Extended Attribute Filter',
     ),
-    'thumbnail'    => 'logo.jpg',
+    'thumbnail'    => 'itratos.png',
     'version'     => '1.0.0',
     'url'         => 'http://gauravkatkani.blogspot.com',
     'email'       => 'gkatkani@gmail.com',

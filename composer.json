@@ -1,0 +1,23 @@
+{
+    "name": "oxideshopmodules/g_megamenu",
+    "description": "Extended Filter",
+    "type": "oxideshop-module",
+    "keywords": ["extended filter", "search"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gaurav",
+            "email": "gkatkani@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",    
+    "require": {},
+    "autoload-dev": {
+        "psr-4": {
+          "OxidEsales\\gkmegamenu\\": "../../../source/modules/events/Gk_megamenu_events"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}

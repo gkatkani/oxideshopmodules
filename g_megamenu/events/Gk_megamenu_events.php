@@ -1,4 +1,5 @@
 <?php
+namespace OxidEsales\gkmegamenu;
 class Gk_megamenu_events
 {
     public static function onactivate(){

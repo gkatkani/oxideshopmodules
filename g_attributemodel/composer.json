@@ -10,13 +10,16 @@
             "email": "gkatkani@gmail.com"
         }
     ],
+    "version":"1.0.0",
     "minimum-stability": "dev", 
     "extra": {
-        "oxideshop": {
-            "blacklist-filter": [
-                "documentation/**/*.*"
-            ],
-            "target-directory": "oxideshopmodules"
+    "oxideshop": {
+          "target-directory": "oxideshopmodules/g_attributemodel"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+          "OxidEsales\\gkmegamenu\\":"../../../source/modules/oxideshopmodules/g_attributemodel"
         }
     },
     "require": {

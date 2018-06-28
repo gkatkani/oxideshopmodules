@@ -14,7 +14,7 @@
     "require": {},
     "autoload-dev": {
         "psr-4": {
-          "OxidEsales\\gkmegamenu\\": "../../../source/modules/events/Gk_megamenu_events"
+          "OxidEsales\\gkmegamenu\\": "../../../source/modules/g_megamenu/events/Gk_megamenu_events"
         }
     },
     "config": {

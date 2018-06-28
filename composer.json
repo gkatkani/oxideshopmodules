@@ -19,5 +19,13 @@
     },
     "config": {
         "optimize-autoloader": true
-    }
+    },
+    "extra": {
+        "oxideshop": {
+            "blacklist-filter": [
+                "documentation/**/*.*"
+            ],
+            "target-directory": "oxideshopmodules/g_attributemodel"
+        }
+    },
 }

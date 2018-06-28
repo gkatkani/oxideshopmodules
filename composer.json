@@ -1,5 +1,5 @@
 {
-    "name": "oxideshopmodules/g_megamenu",
+    "name": "oxideshopmodules",
     "description": "Extended Filter",
     "type": "oxideshop-module",
     "keywords": ["extended filter", "search"],
@@ -14,7 +14,7 @@
     "require": {},
     "autoload-dev": {
         "psr-4": {
-          "OxidEsales\\gkmegamenu\\": "../../../source/modules/g_megamenu/events/Gk_megamenu_events"
+          "OxidEsales\\gkmegamenu\\": "../../../source/modules/oxideshopmodules/g_attributemodel/events/Gk_megamenu_events"
         }
     },
     "config": {

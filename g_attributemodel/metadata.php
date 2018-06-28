@@ -20,13 +20,13 @@ $aModule = array(
     ),
     'thumbnail'   => 'itratos.png',
     'version'     => '1.0.0',
-    'url'         => 'http://gauravkatkani.blogspot.com',
-    'email'       => 'gkatkani@gmail.com',
-    'author'      => 'gauravkatkani',
+    // 'url'         => 'http://gauravkatkani.blogspot.com',
+    // 'email'       => 'gkatkani@gmail.com',
+    // 'author'      => 'gauravkatkani',
     
     'files'      => array(
        
-        'gk_megamenu_events' => 'oxideshopmodule/g_megamenu/events/Gk_megamenu_events.php',
+        'gk_megamenu_events' => 'oxideshopmodule/g_attributemodel/events/Gk_megamenu_events.php',
     ),
     
     'events'       => array(

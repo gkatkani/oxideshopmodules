@@ -16,7 +16,7 @@
             "blacklist-filter": [
                 "documentation/**/*.*"
             ],
-            "target-directory": "oxideshopmodules/g_attributemodel"
+            "target-directory": "oxideshopmodules"
         }
     },
     "require": {
